@@ -1,2 +1,3 @@
+![Screenshot (1279) (1)](https://user-images.githubusercontent.com/86787843/148790932-52dea554-feb9-47ef-80d6-b3c773c94cd3.png)
 # EviroBank
 This is an eviroBank project.This project contains two different account which is SavingAccount and Current Account.The Saving is going to ask the user to enter the balance and withdraw the amount the user need, the saving account will always have a mininum of R1000.00 all the time.The Current account have an overdraft of R100000.00 which means that the user cannot  withdraw the amount   of  R100000.00 plus  balance.The first program that is going to execute is the CurrentAccount ,followed by the Saving Account and after the execution of this two account the program will terminate.
